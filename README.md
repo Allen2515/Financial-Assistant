@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Plaintext
 GROQ_API_KEY=your_api_key_here
+
 3. 執行程式
-Bash
 python main.py
 📂 檔案結構 (Project Structure)
